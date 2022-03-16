@@ -1,0 +1,134 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/navin/github/ShortCode/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+0	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	o	array:local
+0	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	o	array:local
+0	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	o	array:local
+11142364071441499871	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	o	object:outputs
+17598535894874457435	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	o	object:outputs
+2797684049618456168	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	o	object:outputs
+5309432699494263626	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	o	object:outputs
+8478739912462367707	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	o	object:outputs
+931469667778813386	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	o	object:outputs
+9666181950136269162	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	o	object:outputs
+C	src/CollectData/datastructure.rs	/^    C,$/;"	e	enum:ProjLang
+CPP	src/CollectData/datastructure.rs	/^    CPP,$/;"	e	enum:ProjLang
+CheckDepInfo	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	o	object:local.0
+CollectData	src/main.rs	/^mod CollectData;$/;"	n
+False	src/CollectData/datastructure.rs	/^    False,$/;"	e	enum:GitEnable
+GitDetails	src/CollectData/datastructure.rs	/^pub struct GitDetails {$/;"	s
+GitEnable	src/CollectData/datastructure.rs	/^pub enum GitEnable {$/;"	g
+Java	src/CollectData/datastructure.rs	/^    Java,$/;"	e	enum:ProjLang
+JavaScript	src/CollectData/datastructure.rs	/^    JavaScript,$/;"	e	enum:ProjLang
+None	src/CollectData/datastructure.rs	/^    None,$/;"	e	enum:ProjLang
+Present	src/CollectData/datastructure.rs	/^    Present(GitDetails),$/;"	e	enum:GitEnable
+ProjDetails	src/CollectData/datastructure.rs	/^impl Default for ProjDetails {$/;"	c
+ProjDetails	src/CollectData/datastructure.rs	/^impl ProjDetails {$/;"	c
+ProjDetails	src/CollectData/datastructure.rs	/^pub struct ProjDetails {$/;"	s
+ProjLang	src/CollectData/datastructure.rs	/^pub enum ProjLang {$/;"	g
+Python	src/CollectData/datastructure.rs	/^    Python,$/;"	e	enum:ProjLang
+Rust	src/CollectData/datastructure.rs	/^    Rust,$/;"	e	enum:ProjLang
+SetName	src/CollectData/datastructure.rs	/^    pub fn SetName(&mut self, proj_name: String) {$/;"	P	implementation:ProjDetails
+active_branch	src/CollectData/datastructure.rs	/^    pub active_branch: String,$/;"	m	struct:GitDetails
+code	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	n	object:outputs.11142364071441499871
+code	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	n	object:outputs.17598535894874457435
+code	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	n	object:outputs.2797684049618456168
+code	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	n	object:outputs.5309432699494263626
+code	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	n	object:outputs.8478739912462367707
+code	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	n	object:outputs.931469667778813386
+code	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	n	object:outputs.9666181950136269162
+code_lines	src/CollectData/collect_data.rs	/^fn code_lines(path: &str, proj_details: &mut ProjDetails) {$/;"	f
+collect_data	src/CollectData/collect_data.rs	/^pub fn collect_data(path: &str, detailstruct: &mut ProjDetails) {$/;"	f
+collect_data	src/CollectData/mod.rs	/^pub mod collect_data;$/;"	n
+commits	src/CollectData/datastructure.rs	/^    pub commits: i32,$/;"	m	struct:GitDetails
+compile_kind	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	n
+compile_kind	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	n
+compile_kind	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	n
+config	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	n
+config	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	n
+config	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	n
+contributor_count	src/CollectData/datastructure.rs	/^    pub contributor_count: i32,$/;"	m	struct:GitDetails
+contributors	src/CollectData/datastructure.rs	/^    pub contributors: Vec<String>,$/;"	m	struct:GitDetails
+datastructure	src/CollectData/mod.rs	/^pub mod datastructure;$/;"	n
+default	src/CollectData/datastructure.rs	/^    fn default() -> ProjDetails {$/;"	P	implementation:ProjDetails
+dep_info	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	s	object:local.0.CheckDepInfo
+deps	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	a
+deps	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	a
+deps	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	a
+features	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	s
+features	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	s
+features	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	s
+fetch_git_details	src/CollectData/collect_data.rs	/^fn fetch_git_details(path: &str)->GitDetails{$/;"	f
+fetch_git_status	src/CollectData/collect_data.rs	/^fn fetch_git_status(path : &str)-> GitEnable{$/;"	f
+fetch_name	src/CollectData/collect_data.rs	/^fn fetch_name(path: &str) -> Option<String> {$/;"	f
+git	src/CollectData/datastructure.rs	/^    pub git: GitEnable,$/;"	m	struct:ProjDetails
+language	src/CollectData/datastructure.rs	/^    pub language: ProjLang,$/;"	m	struct:ProjDetails
+lines	src/CollectData/datastructure.rs	/^    pub lines: i32,$/;"	m	struct:ProjDetails
+local	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	a
+local	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	a
+local	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	a
+main	src/main.rs	/^fn main() {$/;"	f
+metadata	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	n
+metadata	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	n
+metadata	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	n
+name	src/CollectData/datastructure.rs	/^    pub name: String,$/;"	m	struct:ProjDetails
+outputs	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	o
+path	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	n
+path	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	n
+path	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	n
+profile	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	n
+profile	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	n
+profile	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	n
+remotes	src/CollectData/datastructure.rs	/^    pub remotes: Vec<String>,$/;"	m	struct:GitDetails
+rustc	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	n
+rustc	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	n
+rustc	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	n
+rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	n
+rustflags	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	a
+rustflags	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	a
+rustflags	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	a
+size	src/CollectData/datastructure.rs	/^    pub size: i32,$/;"	m	struct:ProjDetails
+status	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.11142364071441499871
+status	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.17598535894874457435
+status	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.2797684049618456168
+status	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.5309432699494263626
+status	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.8478739912462367707
+status	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.931469667778813386
+status	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.9666181950136269162
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.11142364071441499871
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.17598535894874457435
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.2797684049618456168
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.5309432699494263626
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.8478739912462367707
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.931469667778813386
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.9666181950136269162
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.11142364071441499871
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.17598535894874457435
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.2797684049618456168
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.5309432699494263626
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.8478739912462367707
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.931469667778813386
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	s	object:outputs.9666181950136269162
+success	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	b	object:outputs.11142364071441499871
+success	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	b	object:outputs.17598535894874457435
+success	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	b	object:outputs.2797684049618456168
+success	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	b	object:outputs.5309432699494263626
+success	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	b	object:outputs.8478739912462367707
+success	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	b	object:outputs.931469667778813386
+success	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	b	object:outputs.9666181950136269162
+successes	target/.rustc_info.json	/^{"rustc_fingerprint":15292252588243639297,"outputs":{"11142364071441499871":{"success":true,"sta/;"	o
+target	target/debug/.fingerprint/ShortCode-100a3138bbce3bf8/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":73091416868/;"	n
+target	target/debug/.fingerprint/ShortCode-799c40ba6961c30d/test-bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":10216330754/;"	n
+target	target/debug/.fingerprint/ShortCode-a31d62376ab1480c/bin-ShortCode.json	/^{"rustc":14330414595928666026,"features":"[]","target":4332420124202051268,"profile":92510136562/;"	n
